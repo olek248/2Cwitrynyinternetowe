@@ -1,0 +1,39 @@
+zad1
+
+
+
+
+
+
+
+zad2
+Nowe tagi, m.in.: section, article, header, footer, video, audio, progress;
+Nowe typy pól "input", np. search, url, email, datetime, date, month;
+Możliwość osadzenia MathML i SVG bezpośrednio w dokumencie;
+
+zad3
+HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
+HTML 4.01 - https://www.w3.org/TR/html401/
+HTML 5.0 - https://dev.w3.org/html5/spec-LC/
+
+zad4
+
+witryna internetowa
+opis i tematyka: Witryna internetowa to zbiór powiązanych ze sobą stron internetowych, które tworzą spójną całość. Jest to miejsce w sieci, do którego użytkownicy mogą się przekierować za pomocą unikalnego adresu internetowego, zwyczajowo znanego jako URL. Witryna internetowa może zawierać różnorodne treści, takie jak teksty, obrazy, filmy, formularze czy interaktywne elementy.
+adres URL: https://www.przyklad.com/najlepsze-gry
+
+portal internetowy
+opis i tematyka: Portal internetowy – witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu. Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe. Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting.
+adres URL: https://www.google.com/intl/pl/gmail/about/
+
+sklep internetowy
+opis i tematyka: Sklep internetowy to rodzaj serwisu z katalogiem produktów lub usług, który umożliwia prowadzenie sprzedaży oraz dokonywanie zakupów za pośrednictwem Internetu. Proces zakupowy realizowany jest najczęściej poprzez dodanie wybranych pozycji do koszyka oraz złożenie zamówienia online.
+adres URL: https://allegro.pl/
+
+blog internetowy
+opis i tematyka: To rodzaj witryny internetowej, którą wyróżniają samodzielnie i specyficznie pisane wpisy, które układane są chronologicznie przez autora. Twórca dba o całokształt strony internetowej w tym samych wpisów. Blogi dają możliwość sortowania ich po odpowiedniej kategorii oraz ich archiwizację.
+aders URL: https://kocham-gotowanie.blogspot.com/
+
+wideoblog
+opis i tematyka: Wideoblog (Vlog) – rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem filmowym. Publikowane wideo to najczęściej krótkie, tematyczne realizacje o funkcji informacyjnej, edukacyjnej bądź rozrywkowej. Najpopularniejszymi kanałami dystrybucji vlogerów są: Youtube oraz Dailymotion.
+adres URL: https://hispasion.com/wideoblog/
