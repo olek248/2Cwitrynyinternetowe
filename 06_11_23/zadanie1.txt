@@ -1,9 +1,17 @@
+KARTA PRACY 1
+
 zad1
-
-
-
-
-
+   WERSJA HTML          ELEMENT           ZAMIENNIK 
+1         HTML 4.01            APPLET              OBJECT
+2         HTML 4.01            MENU                UL
+3         HTML 4.01            DIR                 UL
+4         HTML 4.01            ISINDEX             INPUT
+5         HTML 5.0             BASEFONT            CSS:color,font-familly,font,size
+6         HTML 5.0             STRIKE              CSS:text-decoration
+7         HTML 5.0             S                   CSS:text-decoration
+8         HTML 5.0             U                   CSS:text-decoration
+9         HTML 5.0             FONT                CSS:color,font-familly,font size 
+10        HTML 5.0             CENTER              CSS:text-algin
 
 
 zad2
@@ -16,7 +24,9 @@ HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
 HTML 4.01 - https://www.w3.org/TR/html401/
 HTML 5.0 - https://dev.w3.org/html5/spec-LC/
 
-zad4
+ZADANIA
+
+zad 1
 
 witryna internetowa
 opis i tematyka: Witryna internetowa to zbiór powiązanych ze sobą stron internetowych, które tworzą spójną całość. Jest to miejsce w sieci, do którego użytkownicy mogą się przekierować za pomocą unikalnego adresu internetowego, zwyczajowo znanego jako URL. Witryna internetowa może zawierać różnorodne treści, takie jak teksty, obrazy, filmy, formularze czy interaktywne elementy.
@@ -37,3 +47,44 @@ aders URL: https://kocham-gotowanie.blogspot.com/
 wideoblog
 opis i tematyka: Wideoblog (Vlog) – rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem filmowym. Publikowane wideo to najczęściej krótkie, tematyczne realizacje o funkcji informacyjnej, edukacyjnej bądź rozrywkowej. Najpopularniejszymi kanałami dystrybucji vlogerów są: Youtube oraz Dailymotion.
 adres URL: https://hispasion.com/wideoblog/
+
+zad 2
+jest to portal internetowy ponieważ na stronie można zauważyć, że jest dużo informacji z danej dziedziny.
+
+zad 3 
+1. błędna
+2. błędna
+3. błędna
+4. poprawna
+5. poprawna
+
+zad 4
+1995 HTML (2.0) PIERWSZE WYDANIE
+1996 HTML (3.2) ZWIEKSZENIE ILOSCI ATRYBUTOW
+1997 HTML (4.0) OBSLUGA WIELU SKRYPTOW
+2008 HTML (5.0) DODANIE ZNACZNIKOW MULTIMEDIALNYCH
+
+PODSUMOWANIE
+
+zad 1
+odp. A - hipertekstowy język znaczników
+
+zad 2
+odp. B - {komentarz}
+
+zad 3
+odp. C - blog
+
+zad 4
+odp. B - HTTP
+
+zad 5
+odp. A - znacznika
+
+ZADANIE EGZAMINACYJNE 1
+
+VISUAL STUDIO CODE - Darmowy edytor kodu źródłowego z kolorowaniem składni dla wielu języków.
+
+GITHUB - hostingowy serwis internetowy przeznaczony do projektów programistycznych wykorzystujących system kontroli wersji.
+
+CHATGPT - sztuczna inteligencja która naprowadza, pomaga w tworzeniu kodów.
