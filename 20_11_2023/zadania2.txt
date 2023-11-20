@@ -1,0 +1,60 @@
+karta pracy 1
+<!DOCTYPE html>
+<html lang ="pl">
+<head> 
+<title> Deklaracja typu dokumentu - DOCTYPE </title> 
+<meta charset = UTF-8> 
+<meta name ="author" content ="Jan Kowalski">
+<link rel ="stylesheet" type =" text/css " href ="../styl_glowna_5.css">
+</head>  
+<body>
+    <h1> Tytuł strony dane autora</h1>
+to jest treść strony 
+</body>
+</html>
+
+zad 1
+wesje:
+Strict DTD
+Transitional DTD
+Frameset DTD
+różnice między wesjami:
+Strict DTD jest najbardziej restrykcyjny i zaleca stosowanie najnowszych standardów HTML, eliminując przestarzałe elementy i atrybuty.
+Transitional DTD jest bardziej elastyczny, pozwalając na stosowanie przestarzałych elementów i atrybutów. Jest stosowany, gdy konieczne jest zachowanie kompatybilności wstecznej.
+Frameset DTD jest specyficzny dla dokumentów zawierających ramki, co umożliwia podział przeglądarki na różne obszary wyświetlające różne dokumenty HTML.
+
+zad 2
+<!DOCTYPE html>
+<html lang ="pl">
+<head> 
+<title> Deklaracja typu dokumentu - DOCTYPE </title> 
+<meta charset = UTF-8> 
+<meta name ="description" content ="Deklaracja typu dokumentu - DOCTYPE"> 
+<meta name ="author" content ="Jan Kowalski">
+<meta name ="robots" content ="index, follow"> 
+<link rel ="stylesheet" type =" text/css " href ="../styl_glowna_5.css">
+</head>
+<body>
+
+zad 3
+1.HTML
+2.Przykłady do zadania
+3.UTF-8
+
+test 
+
+Zadanie 1
+1.A
+
+Zadanie 2
+C
+
+Zadanie 3
+D
+
+Zadanie 4
+A
+
+Zadanie 5
+A
+
