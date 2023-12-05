@@ -1,0 +1,10 @@
+Zadanie 1
+A- podkreślenie tekstu
+zad 2
+<p>- C
+zad 3
+href. - B
+zad 4
+<center>. - A
+zad 5
+<pre> - D
