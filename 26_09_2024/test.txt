@@ -1,0 +1,14 @@
+zad 1
+odp. B- CSS
+
+zad 2
+odp. C- selektorem
+
+zad 3
+odp. C- inline
+
+zad 4
+odp. D- wielokrotnie
+
+zad 5
+odp. A- zbiory

@@ -1,0 +1,23 @@
+Symbol jednostki		nazwa jednostki
+px                                 piksel
+em                                 em
+pc                                 pica
+pt                                 punkt
+%                                  procent
+in                                 cal
+
+rodzaj jednostki
+px- względna
+em- względna
+pc- bezwzględna
+pt- bezwzględna
+% - względna
+in- bezwzględna
+
+opis zastosowania
+px - Jednostka ta określa ilość pojedynczych punktów widocznych na ekranie monitora.
+em- Jednostka ta odnosi się do rozmiaru czcionki elementu nadrzędnego; 1em to 100% aktualnego rozmiaru czcionki.
+pc- Jednostka miary stosowana głównie w druku, gdzie 1 pica = 12 punktów.
+pt- Jednostka typograficzna używana do określenia rozmiaru tekstu, gdzie 1 punkt to 1/72 cala.
+%- Jednostka wyrażająca wartość jako procent w odniesieniu do innego elementu, np. szerokość elementu w stosunku do elementu nadrzędnego.
+in- Jednostka miary odpowiadająca 1 calowi, stosowana głównie w druku.
