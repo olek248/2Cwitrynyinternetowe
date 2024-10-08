@@ -1,0 +1,18 @@
+zalety wykonywania skryptów po stronie serwera:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bezpieczeństwo: Wykonywanie skryptów po stronie serwera jest bezpieczniejsze, ponieważ kod nie jest widoczny dla użytkownika i trudniejszy do modyfikacji.
+--------------------------------------------------------------------------------------------------------------------------------
+Zarządzanie danymi: Serwer może bezpośrednio komunikować się z bazą danych, co ułatwia przetwarzanie i przechowywanie danych.
+----------------------------------------------------------------------------------------------------------------------------------
+Brak zależności od przeglądarki: Skrypty działają niezależnie od tego, jaka przeglądarka jest używana, co eliminuje problemy związane z kompatybilnością.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Obsługa złożonych operacji: Serwer jest w stanie przetwarzać bardziej złożone obliczenia i operacje, które mogłyby przeciążać urządzenie użytkownika.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+wady wykonywania skryptów po stronie serwera:
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Obciążenie serwera: Wszystkie operacje są wykonywane na serwerze, co może zwiększać jego obciążenie, zwłaszcza przy dużej liczbie użytkowników.
+---------------------------------------------------------------------------------------------------------------------------------------------
+Szybkość: Każda operacja wymaga komunikacji z serwerem, co może powodować opóźnienia, zwłaszcza przy wolnym połączeniu internetowym.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Zależność od połączenia internetowego: Skrypty serwerowe nie działają offline, użytkownik musi mieć stałe połączenie z serwerem, aby wykonywać operacje.

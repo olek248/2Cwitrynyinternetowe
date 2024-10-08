@@ -1,0 +1,14 @@
+zadanie 1 
+odp.A - HTML
+
+zadanie 2
+odp.C - PHP
+
+zadanie 3
+odp.D - JavaScript
+
+zadanie 4
+odp.A - rombu
+
+zad 5
+odp.D - 1

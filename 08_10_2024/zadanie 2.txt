@@ -1,0 +1,20 @@
+zalety wykonywania skryptów po stronie klienta:
+---------------------------------------------------
+Szybkość działania: Skrypty są wykonywane bezpośrednio na komputerze użytkownika, co oznacza, że odpowiedzi są natychmiastowe i nie wymagają przesyłania danych do serwera.
+-----------------------------------------------------------------------------------------------------
+Zmniejszenie obciążenia serwera: Operacje są wykonywane na komputerze klienta, co odciąża serwer.
+----------------------------------------------------------------------------------------------------
+Interaktywność: Skrypty klienta mogą reagować w czasie rzeczywistym na akcje użytkownika, np. walidacja formularzy bez odświeżania strony.
+---------------------------------------------------------------------------------------------------
+Brak potrzeby łącza internetowego: Skrypty mogą działać offline, jeśli dane są już załadowane.
+-------------------------------------------------------------------------------------------------
+
+wady wykonywania skryptów po stronie klienta:
+---------------------------------------------------------------------------------------------------------------------
+Zależność od przeglądarki: Skrypty mogą działać różnie w zależności od przeglądarki, co wymaga dodatkowych testów.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Bezpieczeństwo: Skrypty po stronie klienta są widoczne dla użytkownika i mogą być łatwiej modyfikowane lub nadużywane przez złośliwe oprogramowanie.
+----------------------------------------------------------------------------------------------------------------------------------
+Wymagania sprzętowe: Skrypty mogą obciążać zasoby komputera klienta, zwłaszcza jeśli są złożone lub źle zoptymalizowane.
+-------------------------------------------------------------------------------------------------------------------------------
+Brak kontroli nad wykonaniem: Użytkownik może wyłączyć obsługę skryptów w przeglądarce, co uniemożliwi działanie aplikacji.

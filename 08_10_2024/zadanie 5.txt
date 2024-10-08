@@ -1,0 +1,2 @@
+program się zaczyna ma początku pobiera od użytkownika liczbę i zapisuję ją pod literką "a", następnie pobiera od użytkownika kolejną liczbę i zapisuje ją pod literką "b".
+Potem oblicza sumę dwóch liczb (a i b) dodając obie zmienne do siebie. następnie sprawdza jak liczba jest większa i ją wywołuje.

@@ -1,0 +1,11 @@
+JavaScript:
+rok powstania: 1995
+Główny autor: Brendan Eich
+Wykonywany po stronie klienta/serwera: Po stronie klienta (ale także po stronie serwera, np. w Node.js)
+Numer ostatniej wersji: ECMA-262, 13th Edition (ES2022)
+
+PHP:
+Rok powstania: 1994
+Główny autor: Rasmus Lerdorf
+Wykonywany po stronie klienta/serwera: Po stronie serwera
+Numer ostatniej wersji: PHP 8.3 (październik 2023)
