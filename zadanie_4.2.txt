@@ -1,0 +1,22 @@
+int absoluteValue(int n) {
+	if (n < 0) {
+		return -n;
+	}
+	else {
+		return n;
+	}
+}
+
+//4.2
+std::cout << "Zadanie 4.2 - task result:\n";
+int maxDifference = 0;
+int numberMax = 0;
+
+for (int p : numbers) {
+	int reflection = reverseNumber(p);
+	int difference = absoluteValue(p - reflection);
+	if (difference > maxDifference) {
+		maxDifference = difference;
+		numberMax = p;
+	}
+}

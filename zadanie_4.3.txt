@@ -1,0 +1,20 @@
+bool ifPrimeNumber(int n) {
+	if (n < 2) return false;
+	for (int i = 2; i * i <= n; i++) {
+		if (n % i == 0)
+			return false;
+	}
+	return true;
+}
+
+	//4.3
+	std::cout << "Zadanie 4.3 - task result:\n";
+
+	for (int k : numbers) {
+		int reflection = reverseNumber(k);
+		if (ifPrimeNumber(k) && ifPrimeNumber(reflection)) {
+			std::cout << k << "\n";
+		}
+	}
+	return 0;
+}
