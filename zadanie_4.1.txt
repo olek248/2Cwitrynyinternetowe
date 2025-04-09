@@ -1,0 +1,51 @@
+#include <iostream>
+#include <fstream>
+#include <vector>
+
+int reverseNumber(int n) {
+	int reverse = 0;
+	while (n > 0) {
+	reverse = reverse * 10 + n % 10;
+	n /= 10;
+	}
+	return reverse;
+}
+
+int main() {
+	vector<int> numbers;
+	vector<int> result;
+	ifstream plik("liczby.txt");
+	
+	if (!plik.is_open()) {
+		std::cout << "nie można otworzyć pliku liczby.txt";
+		return 1;
+	}
+	int number;
+	while (plik >> number) {
+	numbers.push_back(number);
+	}
+
+	//4.1
+	for (int l : numbers) {
+		int odbicie = reverseNumber(l);
+		if (odbicie % 17 == 0) {
+		result.push_back(odbicie);
+		}
+	}
+
+	std::cout << "zadanie 4.1 - Odbicia podzielne przez 17:\n";
+	for (int wynik : result) {
+	std::cout << wynik;
+	}
+	
+	plik.close();
+	return 0;
+	}
+
+	
+	
+	
+	
+
+	
+	
